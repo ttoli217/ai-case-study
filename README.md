@@ -48,4 +48,4 @@
 
 * Why are these technologies appropriate for your solution?
 
-![image](https://github.com/ttoli217/ai-case-study/assets/168606466/42790ecb-6b4b-4b0c-afc1-af7089783aa5)
+
