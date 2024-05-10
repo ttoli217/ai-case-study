@@ -2,8 +2,7 @@
 
 ## Overview and Origin
 
-* Name of company
-May Mobility 
+* May Mobility 
 
 * When was the company incorporated? May of 2017.
 
