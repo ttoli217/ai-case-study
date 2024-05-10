@@ -5,7 +5,7 @@
 * Name of company
 May Mobility 
 
-* When was the company incorporated? After decades of experience in robotics and research, Edwin Olson co-founded May Mobility in Ann Arbor, Mich. in 2017 with the goal of using autonomous technologies to solve real world problems.
+* When was the company incorporated? May of 2017.
 
 * Who are the founders of the company? Edwin Olson
 
