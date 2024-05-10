@@ -1,9 +1,9 @@
-# TITLE
+# May Mobility Case Study 
 
 ## Overview and Origin
 
 * Name of company
-:May Mobility 
+May Mobility 
 
 * When was the company incorporated? After decades of experience in robotics and research, Edwin Olson co-founded May Mobility in Ann Arbor, Mich. in 2017 with the goal of using autonomous technologies to solve real world problems.
 
@@ -34,7 +34,7 @@ May Mobility's MPDM system revolutionizes the approach to autonomous vehicles (A
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years? 
 The future of autonomous vehicles is poised to witness a plethora of Advanced Driving Assistance Systems (ADAS) aimed at enhancing driving safety for motorists. These electronic systems evolve through continuous ADAS development, drawing insights from various data sources such as radar, LiDAR, image sensors, and computer vision technologies. AI in automotive applications harnesses deep learning technology to iteratively enhance its performance, enabling it to make refined decisions based on accumulated experience. This evolution leads to safer, smoother, smarter, and more efficient rides. Whether it acts as a supportive aid to human drivers or assumes complete control, AI stands as a pivotal element in advancing autonomous vehicles. It serves as a major catalyst for the development of level-4 and level-5 autonomous systems. Anticipated advancements in safe and seamless all-weather autonomous driving are expected to drive significant market growth in the sector.
 
-* What are the other major companies in this field? Waymo, Cruz, Tesla and Cruise.
+* What are the other major companies in this field?  May Mobility does not focus on taxir services or personal vechicles so that really limits its competitiors but as far as software comparison Waymo, Cruz, Tesla and Cruise are all major competitiors.
 
 ## Results
 
@@ -42,16 +42,21 @@ The future of autonomous vehicles is poised to witness a plethora of Advanced Dr
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics? Success is measureed in government contracts via market deployments, B2B contracts and often total rides in market areas. 
 
-* How is your company performing relative to competitors in the same field? May Mobility is been called one of the fastest  growing and innovative companies. May Mobility 
-
+* How is your company performing relative to competitors in the same field? May Mobility recognized on Fast Company’s 2024 list of the Most Innovative Companies
+  
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? Software for parsonal cars that assiste teen drivers. 
+* If you were to advise the company, what products or services would you suggest they offer? Software for parsonal cars that focus on teen drivers. Also would be interested in automous bikes for special need indiviuals.  
 
-* Why do you think that offering this product or service would benefit the company? One of the core goals is safety and relaibabilty. 
+* Why do you think that offering this product or service would benefit the company? One of the core goals is safety and relaibabilty. I think also it would stand out in the market. 
 
-* What technologies would this additional product or service utilize?
+* What technologies would this additional product or service utilize? Lidars. 
 
-* Why are these technologies appropriate for your solution?
+* Why are these technologies appropriate for your solution? I think the technolgy is appropiate soultion for safety and reliabilty. 
+
+Sites
+https://maymobility.com/
+https://maymobility.com/posts/may-mobility-fast-company-2024-most-innovative-companies/
+
 
 
